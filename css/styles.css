@@ -1,0 +1,14 @@
+.portfolio-navbar {
+  background-color: #001f3f;
+}
+
+.portfolio-navbar .navbar-brand,
+.portfolio-navbar .nav-link {
+  color: #fff;
+}
+
+.portfolio-navbar .nav-link:hover,
+.portfolio-navbar .nav-link:focus,
+.portfolio-navbar .nav-link.active {
+  color: #fff;
+}
